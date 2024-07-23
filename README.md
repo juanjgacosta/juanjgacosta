@@ -45,11 +45,11 @@ Here are some ideas to get you started:
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   </a>
     <!-- React JS -->
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
     <!-- Electron JS -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ElectronJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
   </a>
   <!-- Python -->
@@ -65,8 +65,8 @@ Here are some ideas to get you started:
       <img  alt="Cplusplus" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   </a>
   <!-- Embedded C -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"/>
+  <a href="https://www.geeksforgeeks.org/embedded-c/" target="_blank" rel="noreferrer">
+      <img  alt="Embeddedc" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg"/>
   </a>
   <!-- Linux -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -78,15 +78,31 @@ Here are some ideas to get you started:
   </a>
   <!-- GraphQL -->
   <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
-      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
   </a>
   <!-- SQLite -->
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+      <img  alt="SQLite" height="50px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
+  </a>
+  <!-- Postgres -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img  alt="Postgres" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
+  </a>
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img  alt="AWS" height="50px" style="padding-right:10px; background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com//" target="_blank" rel="noreferrer">
+      <img  alt="Git" height="50px" style="padding-right:10px; background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
   </a>
   <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
