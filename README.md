@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚙️ Languages and Tools
 
 <br>
+<br>
 
 <div align="center">
     <!-- HTML -->
@@ -117,3 +118,13 @@ Here are some ideas to get you started:
       <img  alt="Latex" height="50px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/> 
   </a>
 </div>
+
+<br>
+<br>
+<h3>
+📊 GitHub Analytics
+</h3>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7)](https://github.com/juanjgacosta/github-readme-stats)
