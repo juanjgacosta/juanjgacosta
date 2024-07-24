@@ -112,4 +112,8 @@ Here are some ideas to get you started:
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
+  <!-- LaTeX -->
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+      <img  alt="Latex" height="50px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/> 
+  </a>
 </div>
