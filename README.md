@@ -127,10 +127,10 @@ Here are some ideas to get you started:
 
 <br>
 
-<div style="display:flex; gap:1rem; justify-content: between;">
+<div style="display:flex; gap:0.5rem; justify-content: between;">
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7&theme=tokyonight&layout=compact" />
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7&theme=tokyonight&layout=compact" />
 
-<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=juanjgacosta&show_icons=true&theme=tokyonight" />
+<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=juanjgacosta&show_icons=true&theme=tokyonight" />
 
 </div>
