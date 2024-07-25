@@ -127,4 +127,10 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7&theme=tokyonight)](https://github.com/juanjgacosta/github-readme-stats)
+<div style="display:flex; gap:1rem; justify-content: between;">
+
+<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7&theme=tokyonight&layout=compact" />
+
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=juanjgacosta&show_icons=true&theme=tokyonight" />
+
+</div>
