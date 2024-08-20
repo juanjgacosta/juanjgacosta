@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Mid Level Developer (Full) focused on acoustic research and experience in embedded applications and web development applications for integration with embedded systems.
 
-- 🔭 I’m currently working at <a href="https://caaas.com.br/">Interlaken</a>
+- 🧰 I’m currently working at <a href="https://caaas.com.br/">Interlaken</a>
 
 ## ⚙️ Languages and Tools
 
 <br>
 
-<div styles="display:flex; justify-content:center">
 <table align="center" width="100%">
     <thead>
         <tr>
@@ -169,20 +168,22 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 
-</div>
+<br>
+<br>
 
-<br>
-<br>
-<h3>
-📊 GitHub Analytics
-</h3>
+## 📊 GitHub Analytics
 
 <br>
 
-<div style="display:flex; gap:0.5rem; justify-content: between;">
-
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7&theme=tokyonight&layout=compact" />
-
-<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=juanjgacosta&show_icons=true&theme=tokyonight" />
-
-</div>
+<table align="center" width="100%" border="1">
+    <tbody>
+        <tr>
+            <td>
+                <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7&theme=tokyonight&layout=compact" />
+            </td>
+            <td  >
+                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=juanjgacosta&show_icons=true&theme=tokyonight" />
+            </td>
+        </tr>
+    </tbody>
+</table>
