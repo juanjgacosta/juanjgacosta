@@ -175,13 +175,13 @@ Here are some ideas to get you started:
 
 <br>
 
-<table align="center" width="100%" border="1">
+<table align="center" width="100%" border="1" cellpadding="10" cellspacing="5">
     <tbody>
         <tr>
-            <td>
+            <td style="padding: 25px 15px;">
                 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7&theme=tokyonight&layout=compact" />
             </td>
-            <td  >
+            <td  style="padding: 25px 15px;">
                 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=juanjgacosta&show_icons=true&theme=tokyonight" />
             </td>
         </tr>
