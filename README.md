@@ -30,6 +30,7 @@ Here are some ideas to get you started:
         <tr>
             <th valign="top"><h3 align="center">Frontend</h3></th>
             <th valign="top"><h3 align="center">Backend</h3></th>
+            <th valign="top"><h3 align="center">Embedded</h3></th>
         </tr>
     </thead>
     <tbody>
@@ -62,20 +63,62 @@ Here are some ideas to get you started:
                     <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
                 </a>
             </td>
+            <td>
+                <!-- C -->
+                <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+                    <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+                </a>
+                <!-- C++ -->
+                <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+                    <img  alt="Cplusplus" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+                </a>
+                  <!-- Embedded C -->
+                <a href="https://www.geeksforgeeks.org/embedded-c/" target="_blank" rel="noreferrer">
+                    <img  alt="Embeddedc" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg"/>
+                </a>
+            </td>
         </tr>
         <tr>
             <td>
             <!-- TypeScript -->
                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+                    <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
                 </a>
                 <!-- React JS -->
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+                    <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                 </a>
                 <!-- Electron JS -->
                 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-                <img  alt="ElectronJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+                    <img  alt="ElectronJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+                </a>
+            </td>
+            <td>
+                <!-- SQLite -->
+                <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+                    <img  alt="SQLite" height="50px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
+                </a>
+                <!-- Postgres -->
+                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+                    <img  alt="Postgres" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+                </a>
+                  <!-- MySQL -->
+                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                    <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+                </a>
+            </td>
+            <td>
+                <!-- Linux -->
+                <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+                    <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+                </a>
+                <!-- Vim -->
+                <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+                    <img  alt="Vim" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
+                </a>
+                  <!-- Bash -->
+                <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+                    <img  alt="Bash" height="50px" style="padding-right:10px; background-color:rgb(107 114 128);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
                 </a>
             </td>
         </tr>
@@ -128,41 +171,41 @@ Here are some ideas to get you started:
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a> -->
   <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
+  </a> -->
   <!-- C++ -->
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
       <img  alt="Cplusplus" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  </a>
+  </a> -->
   <!-- Embedded C -->
-  <a href="https://www.geeksforgeeks.org/embedded-c/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.geeksforgeeks.org/embedded-c/" target="_blank" rel="noreferrer">
       <img  alt="Embeddedc" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg"/>
-  </a>
+  </a> -->
   <!-- Linux -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  </a>
+  </a> -->
   <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img  alt="Bash" height="50px" style="padding-right:10px; background-color:rgb(107 114 128);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-  </a>
+  </a> -->
   <!-- GraphQL -->
-  <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
       <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
-  </a>
+  </a> -->
   <!-- SQLite -->
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
       <img  alt="SQLite" height="50px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
-  </a>
+  </a> -->
   <!-- Postgres -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
       <img  alt="Postgres" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-  </a>
+  </a> -->
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  </a>
+  </a> -->
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
