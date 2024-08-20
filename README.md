@@ -15,48 +15,118 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔥 Mid Level Developer (Full) focused on acoustic research and development of applications for integration with embedded systems.
+- 👨‍💻 Mid Level Developer (Full) focused on acoustic research and experience in embedded applications and web development applications for integration with embedded systems.
 
 - 🔭 I’m currently working at <a href="https://caaas.com.br/">Interlaken</a>
 
 - ⚙️ Languages and Tools
 
 <br>
+
 <br>
+
+<table align="center">
+    <thead>
+        <tr>
+            <th valign="top"><h3 align="center">Frontend</h3></th>
+            <th valign="top"><h3 align="center">Backend</h3></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <!-- HTML -->
+                <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+                    <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+                </a>
+                <!-- CSS -->
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+                    <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+                </a>
+                <!-- JavaScript -->
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                    <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+                </a>
+            </td>
+            <td>
+                <!-- Node JS -->
+                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+                    <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+                </a>
+                <!-- Python -->
+                <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+                    <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+                </a>
+                <!-- GraphQL -->
+                <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
+                    <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <!-- TypeScript -->
+                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+                <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+                </a>
+                <!-- React JS -->
+                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+                </a>
+                <!-- Electron JS -->
+                <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+                <img  alt="ElectronJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <!-- Tailwind CSS -->
+                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                <img  alt="Tailwindcss" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+                </a>
+                <!-- Next Js -->
+                <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+                <img  alt="Tailwindcss" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <div align="center">
     <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
+  </a> -->
   <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
+  </a> -->
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
+  </a> -->
   <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  </a>
+  </a> -->
   <!-- Node JS -->
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
+  </a> -->
     <!-- React JS -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
+  </a> -->
     <!-- Electron JS -->
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ElectronJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-  </a>
+  </a> -->
   <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
+  </a> -->
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
