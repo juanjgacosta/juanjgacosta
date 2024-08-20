@@ -31,6 +31,7 @@ Here are some ideas to get you started:
             <th valign="top"><h3 align="center">Frontend</h3></th>
             <th valign="top"><h3 align="center">Backend</h3></th>
             <th valign="top"><h3 align="center">Embedded</h3></th>
+            <th valign="top"><h3 align="center">Tools</h3></th>
         </tr>
     </thead>
     <tbody>
@@ -77,6 +78,20 @@ Here are some ideas to get you started:
                     <img  alt="Embeddedc" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg"/>
                 </a>
             </td>
+            <td>
+              <!-- AWS -->
+                <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+                    <img  alt="AWS" height="50px" style="padding-right:10px; background-color:#242424;border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+                </a>
+              <!-- Docker -->
+                <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                    <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
+                </a>
+                  <!-- Git -->
+                <a href="https://git-scm.com//" target="_blank" rel="noreferrer">
+                    <img  alt="Git" height="50px" style="padding-right:10px; background-color:white;border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+                </a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -96,7 +111,7 @@ Here are some ideas to get you started:
             <td>
                 <!-- SQLite -->
                 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-                    <img  alt="SQLite" height="50px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
+                    <img  alt="SQLite" height="50px" style="padding-right:10px; background-color:white;border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
                 </a>
                 <!-- Postgres -->
                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
@@ -118,7 +133,21 @@ Here are some ideas to get you started:
                 </a>
                   <!-- Bash -->
                 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-                    <img  alt="Bash" height="50px" style="padding-right:10px; background-color:rgb(107 114 128);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+                    <img  alt="Bash" height="50px" style="padding-right:10px; background-color:rgb(107 114 128);border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+                </a>
+            </td>
+            <td>
+                <!-- Visual Studio Code -->
+                <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+                    <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+                </a>
+                <!-- Figma -->
+                <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+                    <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+                </a>
+                <!-- LaTeX -->
+                <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+                    <img  alt="Latex" height="50px" style="padding-right:10px; background-color:white;border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/> 
                 </a>
             </td>
         </tr>
@@ -207,29 +236,29 @@ Here are some ideas to get you started:
       <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </a> -->
   <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  </a>
+  </a> -->
   <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
       <img  alt="AWS" height="50px" style="padding-right:10px; background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  </a>
+  </a> -->
   <!-- Git -->
-  <a href="https://git-scm.com//" target="_blank" rel="noreferrer">
+  <!-- <a href="https://git-scm.com//" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px; background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-  </a>
+  </a> -->
   <!-- Visual Studio Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
+  </a> -->
   <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  </a>
+  </a> -->
   <!-- LaTeX -->
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
       <img  alt="Latex" height="50px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/> 
-  </a>
+  </a> -->
 </div>
 
 <br>
