@@ -179,10 +179,10 @@ Here are some ideas to get you started:
     <tbody>
         <tr>
             <td style="padding: 25px 15px;">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7&theme=tokyonight&layout=compact" />
+                <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjgacosta&hide=scss&langs_count=7&theme=react&hide_border=true&layout=compact" />
             </td>
             <td  style="padding: 25px 15px;">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=juanjgacosta&show_icons=true&theme=tokyonight" />
+                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=juanjgacosta&show_icons=true&theme=react&hide_border=true" />
             </td>
         </tr>
     </tbody>
