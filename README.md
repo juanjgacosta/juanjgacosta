@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<table align="justify">
+<table align="center" width="100%">
     <thead>
         <tr>
             <th valign="top"><h3 align="center">Frontend</h3></th>
