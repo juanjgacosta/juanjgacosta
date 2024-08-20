@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at <a href="https://caaas.com.br/">Interlaken</a>
 
-- ⚙️ Languages and Tools
-
-<br>
+## ⚙️ Languages and Tools
 
 <br>
 
@@ -47,7 +45,7 @@ Here are some ideas to get you started:
                 </a>
                 <!-- JavaScript -->
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                    <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+                    <img  alt="JavaScript" height="50px" style="padding-right:0px;border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
                 </a>
             </td>
             <td>
@@ -97,7 +95,7 @@ Here are some ideas to get you started:
             <td>
             <!-- TypeScript -->
                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                    <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+                    <img  alt="TypeScript" height="50px" style="padding-right:0px;border-radius:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
                 </a>
                 <!-- React JS -->
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
