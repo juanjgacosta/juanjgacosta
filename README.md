@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 
+<div styles="display:flex; justify-content:center">
 <table align="center" width="100%">
     <thead>
         <tr>
@@ -168,99 +169,6 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 
-<div align="center">
-    <!-- HTML -->
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a> -->
-  <!-- CSS -->
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a> -->
-  <!-- JavaScript -->
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a> -->
-  <!-- TypeScript -->
-  <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  </a> -->
-  <!-- Node JS -->
-  <!-- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a> -->
-    <!-- React JS -->
-  <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a> -->
-    <!-- Electron JS -->
-  <!-- <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ElectronJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-  </a> -->
-  <!-- Python -->
-  <!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a> -->
-  <!-- C -->
-  <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a> -->
-  <!-- C++ -->
-  <!-- <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-      <img  alt="Cplusplus" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  </a> -->
-  <!-- Embedded C -->
-  <!-- <a href="https://www.geeksforgeeks.org/embedded-c/" target="_blank" rel="noreferrer">
-      <img  alt="Embeddedc" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg"/>
-  </a> -->
-  <!-- Linux -->
-  <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  </a> -->
-  <!-- Bash -->
-  <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img  alt="Bash" height="50px" style="padding-right:10px; background-color:rgb(107 114 128);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-  </a> -->
-  <!-- GraphQL -->
-  <!-- <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
-      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
-  </a> -->
-  <!-- SQLite -->
-  <!-- <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-      <img  alt="SQLite" height="50px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
-  </a> -->
-  <!-- Postgres -->
-  <!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img  alt="Postgres" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-  </a> -->
-  <!-- MySQL -->
-  <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  </a> -->
-  <!-- Docker -->
-  <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  </a> -->
-  <!-- AWS -->
-  <!-- <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-      <img  alt="AWS" height="50px" style="padding-right:10px; background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  </a> -->
-  <!-- Git -->
-  <!-- <a href="https://git-scm.com//" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px; background-color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-  </a> -->
-  <!-- Visual Studio Code -->
-  <!-- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a> -->
-  <!-- Figma -->
-  <!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  </a> -->
-  <!-- LaTeX -->
-  <!-- <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-      <img  alt="Latex" height="50px" style="padding-right:10px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/> 
-  </a> -->
 </div>
 
 <br>
