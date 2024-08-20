@@ -151,13 +151,17 @@ Here are some ideas to get you started:
         </tr>
         <tr>
             <td>
-                <!-- Tailwind CSS -->
-                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                <img  alt="Tailwindcss" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-                </a>
                 <!-- Next Js -->
                 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                <img  alt="Tailwindcss" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+                    <img  alt="Tailwindcss" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+                </a>
+                <!-- Tailwind CSS -->
+                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                    <img  alt="Tailwindcss" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+                </a>
+                <!-- Bootstrap -->
+                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+                    <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
                 </a>
             </td>
         </tr>
