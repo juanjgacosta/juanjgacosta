@@ -57,9 +57,9 @@ Here are some ideas to get you started:
                 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                     <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
                 </a>
-                <!-- GraphQL -->
-                <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
-                    <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
+                <!-- Prisma -->
+                <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+                    <img  alt="Prisma" height="50px" style="padding-right:10px;background-color:white;border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original-wordmark.svg"/>
                 </a>
             </td>
             <td>
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
             <td>
                 <!-- SQLite -->
                 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-                    <img  alt="SQLite" height="50px" style="padding-right:10px; background-color:white;border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
+                    <img  alt="SQLite" height="50px" style="padding-right:10px; background-color:white;border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
                 </a>
                 <!-- Postgres -->
                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
@@ -162,6 +162,20 @@ Here are some ideas to get you started:
                 <!-- Bootstrap -->
                 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
                     <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+                </a>
+            </td>
+            <td>
+                <!-- Redis -->
+                <a href="https://redis.io/" target="_blank" rel="noreferrer">
+                    <img  alt="Redis" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"/>
+                </a>
+                <!-- GraphQL -->
+                <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
+                    <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
+                </a>
+                <!-- Nginx -->
+                <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+                    <img  alt="GraphQL" height="50px" style="padding-right:10px;background-color:white;border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
                 </a>
             </td>
         </tr>
