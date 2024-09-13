@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 Mid Level Developer (Full) focused on acoustic research and experience in embedded applications and web development applications for integration with embedded systems.
+- 👨‍💻 Mid Level Developer focused on acoustic research with experience in embedded systems and web development applications for integration with Linux embedded systems.
 
 - 🧰 I’m currently working at <a href="https://caaas.com.br/">Interlaken</a>
 
